@@ -1,0 +1,12 @@
+.birthday__list {
+  list-style: none;
+  max-height: 460px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.birthday__list li:first-child {
+  margin-top: 20px;
+}
+.birthday__list li {
+  margin: 20px 25px;
+}
